@@ -51,7 +51,7 @@ print("User added!")
 
 new_post = Post(
     title="Education",
-    content="I completed my Bachelors in Information Technology",
+    content="I completed my Bachelors in Information Technology,
     user_id=new_user.id
 )
 
